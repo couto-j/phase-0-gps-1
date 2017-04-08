@@ -6,3 +6,11 @@ git push origin <branch_name> = this uploads a branch to the Github repository (
 git add <filename> = stages a file so it is ready to be committed as a change
 git commit -m "Message" = saves modifications made to a file and gives a description of the commit
 git pull <alias_for_repository> <branch> = downloads and merges with local repository any pushes that have been made to the branch by other users
+
+**This is something bold**
+*This is something italic*
+[This is Google](http://www.google.com)
+
+    This is code, haha!
+    
+![This is a picture of Matt and Jeff](https://www.dropbox.com/s/2s5zsjswb5v4zcc/Matt_Jeff_Picture.png?dl=1  "Hover text for Matt & Jeff")
