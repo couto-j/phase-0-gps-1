@@ -14,3 +14,5 @@ git pull <alias_for_repository> <branch> = downloads and merges with local repos
     This is code, haha!
     
 ![This is a picture of Matt and Jeff](https://www.dropbox.com/s/2s5zsjswb5v4zcc/Matt_Jeff_Picture.png?dl=1  "Hover text for Matt & Jeff")
+
+Small change to code on small-conflict branch
